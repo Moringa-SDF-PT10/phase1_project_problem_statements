@@ -33,3 +33,15 @@ You are require to submit the following before the due date:
 
   2. A 3-minute video (**maximum 3 minutes**) of a walkthrough of your project showcasing all the features of your project and the core deliverables for the project.
 > The video should be uploaded to the [SDF-PT10 Phase 1 Project Videos Folder](https://drive.google.com/drive/folders/1deAe_8P788kJi8w9W8-JbgYOCwdSOm-9?usp=drive_link) on Google Drive.
+>
+> The video name should follow the same naming convention as your project name;
+>
+> **jane-doe-trivia-video**,
+>
+> **jane-doe-rps-video**,
+>
+> **jane-doe-meal-video**,
+>
+> **jane-doe-crypto-video**,
+>
+> **jane-doe-cocktail-video**
