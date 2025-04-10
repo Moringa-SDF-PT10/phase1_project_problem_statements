@@ -7,7 +7,7 @@ The game should include:
 - A score tracker that keeps track of who wins in each round
 - At the end of a 3 round game, display the winner.
 
-## Setup
+## 🔧 Setup
 
 1.  Create a new  **PRIVATE**  repository in this GitHub Organization ([Moringa-SDF-PT10.](https://github.com/Moringa-SDF-PT10 "Link")). Ensure your repository has a name in the following format;  _firstname-lastname-rps-project_  (Example: **jane-doe-rps-project**).  _Take note, any other repository name will  **NOT**  be graded_.
 2. Create the `index.html`, `styles.css` and `index.js` files in the root of your repository. Should your project have images, create an `assets` folder where you will store your images.
@@ -22,14 +22,14 @@ The game should include:
 
 -   [How to write a good README.](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/ "Link")
 
-## Deliverables
+## ✅ Deliverables
 
 As a user, I can:
 
 1. Click on "Start Button" button to start the game
-    
+
 2.  Select the object to use for
-    
+
 3.  See the outcome between the objects for User 1 and User 2
 
 5. Click on "Restart Game" to restart the game.
